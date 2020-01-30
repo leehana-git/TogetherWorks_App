@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TogetherWorks</string>
+    <string name="todo">TODO</string>
+    <string name="com_id">회사 아이디</string>
+    <string name="mem_id">회원 아이디</string>
+    <string name="mem_pw">비 밀 번 호</string>
+    <string name="login_btn">로 그 인</string>
+    <string name="sign_up_btn">회원가입</string>
+    <string name="id_search_btn">아이디 찾기</string>
+    <string name="pw_search_btn">비밀번호 찾기</string>
+    <string name="auto_login_checkBox">자동 로그인</string>
+    <string name="sign_up_textView">회원이 아니신가요?</string>
+    <string name="id_search_textView">아이디를 잊으셨나요?</string>
+    <string name="pw_search_textView">비밀번호를 잊으셨나요?</string>
+</resources>
