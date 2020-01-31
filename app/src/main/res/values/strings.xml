@@ -12,4 +12,8 @@
     <string name="sign_up_textView">회원이 아니신가요?</string>
     <string name="id_search_textView">아이디를 잊으셨나요?</string>
     <string name="pw_search_textView">비밀번호를 잊으셨나요?</string>
+    <string name="terms_of_service">이용약관</string>
+    <string name="privacy">개인정보처리방침</string>
+    <string name="information_communication_network_act">정보통신망법</string>
+    <string name="personal_information_protection_act">개인정보보호법</string>
 </resources>

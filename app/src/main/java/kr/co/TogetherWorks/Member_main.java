@@ -14,13 +14,5 @@ public class Member_main extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_member_main);
 
-        WebView webView = (WebView)findViewById(R.id.web_index);
-        webView.setWebViewClient(new WebViewClient());
-
-        WebSettings webSettings = webView.getSettings();
-        webSettings.setJavaScriptEnabled(true);
-
-        webView.loadUrl("http://192.168.40.23:8080/www/index.jsp");
-
     }
 }
