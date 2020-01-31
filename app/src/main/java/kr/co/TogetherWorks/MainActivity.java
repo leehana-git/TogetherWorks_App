@@ -183,6 +183,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             return sweet_alert(title, sub_text, mem_pw);
         }
         return true;
+        //
     }
 
     // 알림창 및 입력창 초기화, 포커스
